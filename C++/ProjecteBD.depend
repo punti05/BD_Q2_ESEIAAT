@@ -1,0 +1,568 @@
+# depslib dependency file v1.0
+1511349902 source:c:\users\cristina.punti\downloads\projectebd\projectebd\connexioodbc.cpp
+	<sstream>
+	"ConnexioODBC.h"
+
+1511349791 c:\users\cristina.punti\downloads\projectebd\projectebd\connexioodbc.h
+	<windows.h>
+	<iostream>
+	<sql.h>
+	<sqlext.h>
+
+1511349962 source:c:\users\cristina.punti\downloads\projectebd\projectebd\sentenciaodbc.cpp
+	"SentenciaODBC.h"
+
+1511349855 c:\users\cristina.punti\downloads\projectebd\projectebd\sentenciaodbc.h
+	"ConnexioODBC.h"
+
+1546528830 source:c:\users\cristina.punti\downloads\projectebd\projectebd\categoria.cpp
+	<sstream>
+	"Categoria.h"
+	"SentenciaODBC.h"
+
+1546528776 c:\users\cristina.punti\downloads\projectebd\projectebd\categoria.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546534406 source:c:\users\cristina.punti\downloads\projectebd\projectebd\main.cpp
+	<iostream>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	"ConnexioODBC.h"
+	"SentenciaODBC.h"
+	"Noticies.h"
+	"Categoria.h"
+	"Genere.h"
+	"Rol.h"
+	"Noticies.h"
+	"Titol.h"
+	"Usuari.h"
+
+1546528799 c:\users\cristina.punti\downloads\projectebd\projectebd\noticies.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\sql.h
+	<sqltypes.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\sqltypes.h
+	<stddef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\sqlext.h
+	<sql.h>
+	<sqlucode.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\sqlucode.h
+	<sqlext.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1546528844 source:c:\users\cristina.punti\downloads\projectebd\projectebd\noticies.cpp
+	<sstream>
+	"Noticies.h"
+	"SentenciaODBC.h"
+
+1546528851 source:c:\users\cristina.punti\downloads\projectebd\projectebd\rol.cpp
+	<sstream>
+	"Rol.h"
+	"SentenciaODBC.h"
+
+1546528802 c:\users\cristina.punti\downloads\projectebd\projectebd\rol.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546528837 source:c:\users\cristina.punti\downloads\projectebd\projectebd\genere.cpp
+	<sstream>
+	"Genere.h"
+	"SentenciaODBC.h"
+
+1546528793 c:\users\cristina.punti\downloads\projectebd\projectebd\genere.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546528810 c:\users\cristina.punti\downloads\projectebd\projectebd\titol.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546534343 source:c:\users\cristina.punti\downloads\projectebd\projectebd\titol.cpp
+	<sstream>
+	"Titol.h"
+	"SentenciaODBC.h"
+
+1546533597 c:\users\cristina.punti\downloads\projectebd\projectebd\usuari.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546534363 source:c:\users\cristina.punti\downloads\projectebd\projectebd\usuari.cpp
+	<sstream>
+	"Usuari.h"
+	"SentenciaODBC.h"
+
+1546528830 source:c:\users\cristina.punti\desktop\projectebd\categoria.cpp
+	<sstream>
+	"Categoria.h"
+	"SentenciaODBC.h"
+
+1546528776 c:\users\cristina.punti\desktop\projectebd\categoria.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1511349855 c:\users\cristina.punti\desktop\projectebd\sentenciaodbc.h
+	"ConnexioODBC.h"
+
+1511349791 c:\users\cristina.punti\desktop\projectebd\connexioodbc.h
+	<windows.h>
+	<iostream>
+	<sql.h>
+	<sqlext.h>
+
+1511349902 source:c:\users\cristina.punti\desktop\projectebd\connexioodbc.cpp
+	<sstream>
+	"ConnexioODBC.h"
+
+1546528837 source:c:\users\cristina.punti\desktop\projectebd\genere.cpp
+	<sstream>
+	"Genere.h"
+	"SentenciaODBC.h"
+
+1546528793 c:\users\cristina.punti\desktop\projectebd\genere.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546617282 source:c:\users\cristina.punti\desktop\projectebd\main.cpp
+	<iostream>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	"ConnexioODBC.h"
+	"SentenciaODBC.h"
+	"Noticies.h"
+	"Categoria.h"
+	"Genere.h"
+	"Rol.h"
+	"Noticies.h"
+	"Titol.h"
+	"Usuari.h"
+
+1546528799 c:\users\cristina.punti\desktop\projectebd\noticies.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546528802 c:\users\cristina.punti\desktop\projectebd\rol.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546600906 c:\users\cristina.punti\desktop\projectebd\titol.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546602061 c:\users\cristina.punti\desktop\projectebd\usuari.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546528844 source:c:\users\cristina.punti\desktop\projectebd\noticies.cpp
+	<sstream>
+	"Noticies.h"
+	"SentenciaODBC.h"
+
+1546528851 source:c:\users\cristina.punti\desktop\projectebd\rol.cpp
+	<sstream>
+	"Rol.h"
+	"SentenciaODBC.h"
+
+1511349962 source:c:\users\cristina.punti\desktop\projectebd\sentenciaodbc.cpp
+	"SentenciaODBC.h"
+
+1546601558 source:c:\users\cristina.punti\desktop\projectebd\titol.cpp
+	<sstream>
+	"Titol.h"
+	"SentenciaODBC.h"
+
+1546602232 source:c:\users\cristina.punti\desktop\projectebd\usuari.cpp
+	<sstream>
+	"Usuari.h"
+	"SentenciaODBC.h"
+
+1546528830 source:c:\users\cristina.punti\desktop\c++ projectebd\categoria.cpp
+	<sstream>
+	"Categoria.h"
+	"SentenciaODBC.h"
+
+1546528776 c:\users\cristina.punti\desktop\c++ projectebd\categoria.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1511349855 c:\users\cristina.punti\desktop\c++ projectebd\sentenciaodbc.h
+	"ConnexioODBC.h"
+
+1511349791 c:\users\cristina.punti\desktop\c++ projectebd\connexioodbc.h
+	<windows.h>
+	<iostream>
+	<sql.h>
+	<sqlext.h>
+
+1511349902 source:c:\users\cristina.punti\desktop\c++ projectebd\connexioodbc.cpp
+	<sstream>
+	"ConnexioODBC.h"
+
+1546528837 source:c:\users\cristina.punti\desktop\c++ projectebd\genere.cpp
+	<sstream>
+	"Genere.h"
+	"SentenciaODBC.h"
+
+1546528793 c:\users\cristina.punti\desktop\c++ projectebd\genere.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546617282 source:c:\users\cristina.punti\desktop\c++ projectebd\main.cpp
+	<iostream>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	"ConnexioODBC.h"
+	"SentenciaODBC.h"
+	"Noticies.h"
+	"Categoria.h"
+	"Genere.h"
+	"Rol.h"
+	"Noticies.h"
+	"Titol.h"
+	"Usuari.h"
+
+1546528799 c:\users\cristina.punti\desktop\c++ projectebd\noticies.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546528802 c:\users\cristina.punti\desktop\c++ projectebd\rol.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546600906 c:\users\cristina.punti\desktop\c++ projectebd\titol.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546602061 c:\users\cristina.punti\desktop\c++ projectebd\usuari.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546528844 source:c:\users\cristina.punti\desktop\c++ projectebd\noticies.cpp
+	<sstream>
+	"Noticies.h"
+	"SentenciaODBC.h"
+
+1546528851 source:c:\users\cristina.punti\desktop\c++ projectebd\rol.cpp
+	<sstream>
+	"Rol.h"
+	"SentenciaODBC.h"
+
+1511349962 source:c:\users\cristina.punti\desktop\c++ projectebd\sentenciaodbc.cpp
+	"SentenciaODBC.h"
+
+1546601558 source:c:\users\cristina.punti\desktop\c++ projectebd\titol.cpp
+	<sstream>
+	"Titol.h"
+	"SentenciaODBC.h"
+
+1546602232 source:c:\users\cristina.punti\desktop\c++ projectebd\usuari.cpp
+	<sstream>
+	"Usuari.h"
+	"SentenciaODBC.h"
+
+1546528832 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\categoria.cpp
+	<sstream>
+	"Categoria.h"
+	"SentenciaODBC.h"
+
+1546528778 c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\categoria.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1511349856 c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\sentenciaodbc.h
+	"ConnexioODBC.h"
+
+1511349792 c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\connexioodbc.h
+	<windows.h>
+	<iostream>
+	<sql.h>
+	<sqlext.h>
+
+1511349904 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\connexioodbc.cpp
+	<sstream>
+	"ConnexioODBC.h"
+
+1546528838 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\genere.cpp
+	<sstream>
+	"Genere.h"
+	"SentenciaODBC.h"
+
+1546528794 c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\genere.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546689828 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\main.cpp
+	<iostream>
+	<stdio.h>
+	<sstream>
+	<fstream>
+	"ConnexioODBC.h"
+	"SentenciaODBC.h"
+	"Noticies.h"
+	"Categoria.h"
+	"Genere.h"
+	"Rol.h"
+	"Noticies.h"
+	"Titol.h"
+	"Usuari.h"
+
+1546528800 c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\noticies.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546528804 c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\rol.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546689687 c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\titol.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546602062 c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\usuari.h
+	<iostream>
+	"SentenciaODBC.h"
+
+1546528846 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\noticies.cpp
+	<sstream>
+	"Noticies.h"
+	"SentenciaODBC.h"
+
+1546528852 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\rol.cpp
+	<sstream>
+	"Rol.h"
+	"SentenciaODBC.h"
+
+1511349964 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\sentenciaodbc.cpp
+	"SentenciaODBC.h"
+
+1546689678 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\titol.cpp
+	<sstream>
+	"Titol.h"
+	"SentenciaODBC.h"
+
+1546602234 source:c:\users\cristina.punti\desktop\projectebd_cp\c++ projectebd\usuari.cpp
+	<sstream>
+	"Usuari.h"
+	"SentenciaODBC.h"
+

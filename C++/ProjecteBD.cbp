@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProjecteBD" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProjecteBD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../../../../../Program Files (x86)/CodeBlocks/MinGW/include" />
+				</Compiler>
+				<Linker>
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libodbc32.a" />
+					<Add library="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libodbccp32.a" />
+					<Add directory="../../../../../Program Files (x86)/CodeBlocks/MinGW/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProjecteBD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../../../../Program Files (x86)/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add library="../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libodbc32.a" />
+			<Add library="../../../../Program Files (x86)/CodeBlocks/MinGW/lib/libodbccp32.a" />
+			<Add directory="../../../../Program Files (x86)/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="Categoria.cpp" />
+		<Unit filename="Categoria.h" />
+		<Unit filename="ConnexioODBC.cpp" />
+		<Unit filename="ConnexioODBC.h" />
+		<Unit filename="Genere.cpp" />
+		<Unit filename="Genere.h" />
+		<Unit filename="Noticies.cpp" />
+		<Unit filename="Noticies.h" />
+		<Unit filename="Rol.cpp" />
+		<Unit filename="Rol.h" />
+		<Unit filename="SentenciaODBC.cpp" />
+		<Unit filename="SentenciaODBC.h" />
+		<Unit filename="Titol.cpp" />
+		<Unit filename="Titol.h" />
+		<Unit filename="Usuari.cpp" />
+		<Unit filename="Usuari.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
